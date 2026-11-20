@@ -1,2 +1,3 @@
-# sql-basic
-Netology homework: SQL DDL and DML
+# Основы работы: DDL, DML
+
+Скрипты создают таблицу `PERSONS` и выбирают жителей Москвы и пользователей старше 27 лет.
